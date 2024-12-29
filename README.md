@@ -24,7 +24,7 @@ Audyn é um aplicativo simples e leve para reproduzir suas músicas favoritas. E
    
    • **🔁 (Repetir):** Ativa/desativa o modo de repetição da música atual. O botão ficará verde quando ativado.
 
-5. **Barra de Progresso:** A barra de progresso mostra o andamento da música atual. **Não tem como você arrastar para avançar ou retroceder a música.
+5. **Barra de Progresso:** A barra de progresso mostra o andamento da música atual. **Não tem como você arrastar para avançar ou retroceder a música.**
 
 6. **Informações da Música:** O título e o artista da música atual são exibidos na área principal do aplicativo.
 
